@@ -46,49 +46,62 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: bibliography/pustaka.bib
+Warning--I didn't find a database entry for "muhammadred"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--missing institution in Bostrm2022
+Warning--missing institution in Persson2021
+Warning--missing institution in Vueti2023
+Warning--empty journal in Toppany2023
+Warning--empty journal in Rothenhausler2022
+Warning--empty journal in Paradis2016
+Warning--missing institution in Millqvist2022
+Warning--missing institution in Gokhale2020
+Warning--missing institution in Danielyan2018
+Warning--missing institution in Bondi2000
+Warning--empty journal in Ljubojevic2024
 
 Done.
-You've used 2 entries,
+You've used 32 entries,
             4087 wiz_defined-function locations,
-            852 strings with 8195 characters,
-and the built_in function-call counts, 1416 in all, are:
-= -- 109
-> -- 33
-< -- 10
-+ -- 17
-- -- 6
-* -- 83
-:= -- 238
-add.period$ -- 4
-call.type$ -- 2
-change.case$ -- 2
-chr.to.int$ -- 21
-cite$ -- 2
-duplicate$ -- 99
-empty$ -- 101
-format.name$ -- 8
-if$ -- 303
+            1017 strings with 13865 characters,
+and the built_in function-call counts, 15983 in all, are:
+= -- 1175
+> -- 413
+< -- 48
++ -- 208
+- -- 90
+* -- 710
+:= -- 2597
+add.period$ -- 64
+call.type$ -- 32
+change.case$ -- 32
+chr.to.int$ -- 102
+cite$ -- 43
+duplicate$ -- 1315
+empty$ -- 1403
+format.name$ -- 109
+if$ -- 3591
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 17
-newline$ -- 29
-num.names$ -- 2
-pop$ -- 38
+int.to.str$ -- 32
+missing$ -- 292
+newline$ -- 131
+num.names$ -- 32
+pop$ -- 747
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 100
+skip$ -- 1207
 stack$ -- 0
-substring$ -- 50
-swap$ -- 77
-text.length$ -- 3
+substring$ -- 274
+swap$ -- 894
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 2
-warning$ -- 0
-while$ -- 6
-width$ -- 3
-write$ -- 41
+type$ -- 32
+warning$ -- 11
+while$ -- 51
+width$ -- 34
+write$ -- 292
+(There were 12 warnings)

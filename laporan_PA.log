@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.22)  24 JUN 2025 03:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.22)  24 JUN 2025 05:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1457,9 +1457,7 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
 
 
 
-]
-
-[2])
+])
 \openout2 = `chapters/pengesahan.aux'.
 
  (chapters/pengesahan.tex
@@ -1484,13 +1482,7 @@ l.24 \include{chapters/pengesahan}
 
  (chapters/pernyataan.tex)
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.26 \include{chapters/pernyataan}
-                                   [2
+[2
 
 
 
@@ -1604,8 +1596,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.9 
-     [1
+l.10 
+      [1
 
 
 
@@ -1613,6 +1605,10 @@ l.9
 ]
 
 [2]
+
+LaTeX Warning: Citation `muhammadred' on page 3 undefined on input line 25.
+
+
 
 [3])
 
@@ -1643,13 +1639,13 @@ Bab 2.
 [13]
 
 [14]
-<gambar/Dasar teori/LineChart.png, id=726, 657.2053pt x 323.70938pt>
+<gambar/Dasar teori/LineChart.png, id=769, 657.2053pt x 323.70938pt>
 File: gambar/Dasar teori/LineChart.png Graphic file (type png)
 <use gambar/Dasar teori/LineChart.png>
 Package pdftex.def Info: gambar/Dasar teori/LineChart.png  used on input line 1
 07.
 (pdftex.def)             Requested size: 352.81552pt x 173.78294pt.
-<gambar/Dasar teori/Bar Chart.png, id=727, 696.35156pt x 327.47343pt>
+<gambar/Dasar teori/Bar Chart.png, id=770, 696.35156pt x 327.47343pt>
 File: gambar/Dasar teori/Bar Chart.png Graphic file (type png)
 <use gambar/Dasar teori/Bar Chart.png>
 Package pdftex.def Info: gambar/Dasar teori/Bar Chart.png  used on input line 1
@@ -1658,7 +1654,7 @@ Package pdftex.def Info: gambar/Dasar teori/Bar Chart.png  used on input line 1
 
 
 [15 <./gambar/Dasar teori/LineChart.png>]
-<gambar/Dasar teori/scatter.png, id=736, 713.66624pt x 321.45094pt>
+<gambar/Dasar teori/scatter.png, id=779, 713.66624pt x 321.45094pt>
 File: gambar/Dasar teori/scatter.png Graphic file (type png)
 <use gambar/Dasar teori/scatter.png>
 Package pdftex.def Info: gambar/Dasar teori/scatter.png  used on input line 127
@@ -1685,7 +1681,7 @@ Bab 3.
 
 
 ]
-<gambar/Metodologi/StrukturJson.png, id=774, 350.05782pt x 325.96782pt>
+<gambar/Metodologi/StrukturJson.png, id=821, 350.05782pt x 325.96782pt>
 File: gambar/Metodologi/StrukturJson.png Graphic file (type png)
 <use gambar/Metodologi/StrukturJson.png>
 Package pdftex.def Info: gambar/Metodologi/StrukturJson.png  used on input line
@@ -1696,7 +1692,7 @@ LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
  (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-<gambar/Dasar teori/Sensor BME280.png, id=775, 344.03531pt x 292.09125pt>
+<gambar/Dasar teori/Sensor BME280.png, id=822, 344.03531pt x 292.09125pt>
 File: gambar/Dasar teori/Sensor BME280.png Graphic file (type png)
 <use gambar/Dasar teori/Sensor BME280.png>
 Package pdftex.def Info: gambar/Dasar teori/Sensor BME280.png  used on input li
@@ -1706,7 +1702,7 @@ ne 31.
 
 [21{C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <.
 /gambar/Metodologi/StrukturJson.png>]
-<gambar/Dasar teori/Flask.png, id=784, 578.16pt x 129.48375pt>
+<gambar/Dasar teori/Flask.png, id=831, 578.16pt x 129.48375pt>
 File: gambar/Dasar teori/Flask.png Graphic file (type png)
 <use gambar/Dasar teori/Flask.png>
 Package pdftex.def Info: gambar/Dasar teori/Flask.png  used on input line 42.
@@ -1714,13 +1710,13 @@ Package pdftex.def Info: gambar/Dasar teori/Flask.png  used on input line 42.
 
 
 [22 <./gambar/Dasar teori/Sensor BME280.png>]
-<gambar/Dasar teori/Library.png, id=793, 587.94656pt x 103.13531pt>
+<gambar/Dasar teori/Library.png, id=841, 587.94656pt x 103.13531pt>
 File: gambar/Dasar teori/Library.png Graphic file (type png)
 <use gambar/Dasar teori/Library.png>
 Package pdftex.def Info: gambar/Dasar teori/Library.png  used on input line 50.
 
 (pdftex.def)             Requested size: 352.81552pt x 61.88951pt.
-<gambar/Dasar teori/Initiate.png, id=794, 601.4972pt x 113.67468pt>
+<gambar/Dasar teori/Initiate.png, id=842, 601.4972pt x 113.67468pt>
 File: gambar/Dasar teori/Initiate.png Graphic file (type png)
 <use gambar/Dasar teori/Initiate.png>
 Package pdftex.def Info: gambar/Dasar teori/Initiate.png  used on input line 65
@@ -1729,13 +1725,13 @@ Package pdftex.def Info: gambar/Dasar teori/Initiate.png  used on input line 65
 
 
 [23 <./gambar/Dasar teori/Flask.png> <./gambar/Dasar teori/Library.png>]
-<gambar/Dasar teori/variabel.png, id=808, 595.47469pt x 60.97781pt>
+<gambar/Dasar teori/variabel.png, id=856, 595.47469pt x 60.97781pt>
 File: gambar/Dasar teori/variabel.png Graphic file (type png)
 <use gambar/Dasar teori/variabel.png>
 Package pdftex.def Info: gambar/Dasar teori/variabel.png  used on input line 73
 .
 (pdftex.def)             Requested size: 352.81552pt x 36.12917pt.
-<gambar/Dasar teori/generate_dummy.png, id=809, 470.50781pt x 516.42938pt>
+<gambar/Dasar teori/generate_dummy.png, id=857, 470.50781pt x 516.42938pt>
 File: gambar/Dasar teori/generate_dummy.png Graphic file (type png)
 <use gambar/Dasar teori/generate_dummy.png>
 Package pdftex.def Info: gambar/Dasar teori/generate_dummy.png  used on input l
@@ -1744,12 +1740,12 @@ ine 89.
 
 
 [24 <./gambar/Dasar teori/Initiate.png> <./gambar/Dasar teori/variabel.png>]
-<gambar/Dasar teori/API.png, id=824, 499.8675pt x 115.93312pt>
+<gambar/Dasar teori/API.png, id=872, 499.8675pt x 115.93312pt>
 File: gambar/Dasar teori/API.png Graphic file (type png)
 <use gambar/Dasar teori/API.png>
 Package pdftex.def Info: gambar/Dasar teori/API.png  used on input line 97.
 (pdftex.def)             Requested size: 352.81552pt x 81.83014pt.
-<gambar/Dasar teori/threading.png, id=825, 559.33969pt x 133.24782pt>
+<gambar/Dasar teori/threading.png, id=873, 559.33969pt x 133.24782pt>
 File: gambar/Dasar teori/threading.png Graphic file (type png)
 <use gambar/Dasar teori/threading.png>
 Package pdftex.def Info: gambar/Dasar teori/threading.png  used on input line 1
@@ -1758,7 +1754,7 @@ Package pdftex.def Info: gambar/Dasar teori/threading.png  used on input line 1
 
 
 [25 <./gambar/Dasar teori/generate_dummy.png> <./gambar/Dasar teori/API.png>]
-<gambar/Dasar teori/Run.png, id=834, 487.06969pt x 89.58469pt>
+<gambar/Dasar teori/Run.png, id=882, 487.06969pt x 89.58469pt>
 File: gambar/Dasar teori/Run.png Graphic file (type png)
 <use gambar/Dasar teori/Run.png>
 Package pdftex.def Info: gambar/Dasar teori/Run.png  used on input line 113.
@@ -1766,7 +1762,7 @@ Package pdftex.def Info: gambar/Dasar teori/Run.png  used on input line 113.
 
 
 [26 <./gambar/Dasar teori/threading.png> <./gambar/Dasar teori/Run.png>]
-<gambar/Metodologi/StrukturJSON2.png, id=843, 1140.51094pt x 639.13782pt>
+<gambar/Metodologi/StrukturJSON2.png, id=891, 1140.51094pt x 639.13782pt>
 File: gambar/Metodologi/StrukturJSON2.png Graphic file (type png)
 <use gambar/Metodologi/StrukturJSON2.png>
 Package pdftex.def Info: gambar/Metodologi/StrukturJSON2.png  used on input lin
@@ -1785,19 +1781,19 @@ Overfull \hbox (4.24239pt too wide) in paragraph at lines 139--139
 
 
 [27 <./gambar/Metodologi/StrukturJSON2.png>]
-<gambar/Metodologi/Mount_preprocessing.png, id=851, 408.02437pt x 184.43906pt>
+<gambar/Metodologi/Mount_preprocessing.png, id=898, 408.02437pt x 184.43906pt>
 File: gambar/Metodologi/Mount_preprocessing.png Graphic file (type png)
 <use gambar/Metodologi/Mount_preprocessing.png>
 Package pdftex.def Info: gambar/Metodologi/Mount_preprocessing.png  used on inp
 ut line 153.
 (pdftex.def)             Requested size: 352.81552pt x 159.48973pt.
-<gambar/Metodologi/kolom_timestamp.png, id=852, 408.02437pt x 184.43906pt>
+<gambar/Metodologi/kolom_timestamp.png, id=899, 408.02437pt x 184.43906pt>
 File: gambar/Metodologi/kolom_timestamp.png Graphic file (type png)
 <use gambar/Metodologi/kolom_timestamp.png>
 Package pdftex.def Info: gambar/Metodologi/kolom_timestamp.png  used on input l
 ine 160.
 (pdftex.def)             Requested size: 352.81552pt x 159.48973pt.
-<gambar/Metodologi/endpoint.png, id=853, 412.54124pt x 203.25937pt>
+<gambar/Metodologi/endpoint.png, id=900, 412.54124pt x 203.25937pt>
 File: gambar/Metodologi/endpoint.png Graphic file (type png)
 <use gambar/Metodologi/endpoint.png>
 Package pdftex.def Info: gambar/Metodologi/endpoint.png  used on input line 167
@@ -1807,7 +1803,7 @@ Package pdftex.def Info: gambar/Metodologi/endpoint.png  used on input line 167
 
 [28 <./gambar/Metodologi/Mount_preprocessing.png> <./gambar/Metodologi/kolom_ti
 mestamp.png>]
-<gambar/Metodologi/run.png, id=864, 441.14813pt x 44.41594pt>
+<gambar/Metodologi/run.png, id=912, 441.14813pt x 44.41594pt>
 File: gambar/Metodologi/run.png Graphic file (type png)
 <use gambar/Metodologi/run.png>
 Package pdftex.def Info: gambar/Metodologi/run.png  used on input line 174.
@@ -1815,7 +1811,7 @@ Package pdftex.def Info: gambar/Metodologi/run.png  used on input line 174.
  [29 <./gambar/Metodologi/endpoint.png> <./gambar/Metodologi/run.png>]
 
 [30]
-<gambar/Metodologi/Alur penelitian.png, id=877, 683.55376pt x 543.02875pt>
+<gambar/Metodologi/Alur penelitian.png, id=925, 683.55376pt x 543.02875pt>
 File: gambar/Metodologi/Alur penelitian.png Graphic file (type png)
 <use gambar/Metodologi/Alur penelitian.png>
 Package pdftex.def Info: gambar/Metodologi/Alur penelitian.png  used on input l
@@ -1838,7 +1834,7 @@ Overfull \hbox (7.3208pt too wide) in paragraph at lines 269--298
 [32]
 
 [33]
-<gambar/Metodologi/Use Case.png, id=893, 522.95375pt x 512.91624pt>
+<gambar/Metodologi/Use Case.png, id=942, 522.95375pt x 512.91624pt>
 File: gambar/Metodologi/Use Case.png Graphic file (type png)
 <use gambar/Metodologi/Use Case.png>
 Package pdftex.def Info: gambar/Metodologi/Use Case.png  used on input line 321
@@ -1847,7 +1843,7 @@ Package pdftex.def Info: gambar/Metodologi/Use Case.png  used on input line 321
 
 
 [34]
-<gambar/Metodologi/Sequence Diagram.png, id=902, 609.77812pt x 474.27188pt>
+<gambar/Metodologi/Sequence Diagram.png, id=952, 609.77812pt x 474.27188pt>
 File: gambar/Metodologi/Sequence Diagram.png Graphic file (type png)
 <use gambar/Metodologi/Sequence Diagram.png>
 Package pdftex.def Info: gambar/Metodologi/Sequence Diagram.png  used on input 
@@ -1856,7 +1852,7 @@ line 330.
 
 
 [35 <./gambar/Metodologi/Use Case.png>]
-<gambar/Metodologi/main.png, id=908, 1445.4pt x 1027.84pt>
+<gambar/Metodologi/main.png, id=958, 1445.4pt x 1027.84pt>
 File: gambar/Metodologi/main.png Graphic file (type png)
 <use gambar/Metodologi/main.png>
 Package pdftex.def Info: gambar/Metodologi/main.png  used on input line 342.
@@ -1864,7 +1860,7 @@ Package pdftex.def Info: gambar/Metodologi/main.png  used on input line 342.
 
 
 [36 <./gambar/Metodologi/Sequence Diagram.png>]
-<gambar/Metodologi/formula.png, id=916, 833.1125pt x 519.9425pt>
+<gambar/Metodologi/formula.png, id=966, 833.1125pt x 519.9425pt>
 File: gambar/Metodologi/formula.png Graphic file (type png)
 <use gambar/Metodologi/formula.png>
 Package pdftex.def Info: gambar/Metodologi/formula.png  used on input line 351.
@@ -1873,13 +1869,13 @@ Package pdftex.def Info: gambar/Metodologi/formula.png  used on input line 351.
 
 
 [37 <./gambar/Metodologi/main.png>]
-<gambar/Metodologi/threshold.png, id=923, 833.1125pt x 519.9425pt>
+<gambar/Metodologi/threshold.png, id=973, 833.1125pt x 519.9425pt>
 File: gambar/Metodologi/threshold.png Graphic file (type png)
 <use gambar/Metodologi/threshold.png>
 Package pdftex.def Info: gambar/Metodologi/threshold.png  used on input line 35
 9.
 (pdftex.def)             Requested size: 352.81552pt x 220.19118pt.
-<gambar/Metodologi/compare.png, id=924, 833.1125pt x 519.9425pt>
+<gambar/Metodologi/compare.png, id=974, 833.1125pt x 519.9425pt>
 File: gambar/Metodologi/compare.png Graphic file (type png)
 <use gambar/Metodologi/compare.png>
 Package pdftex.def Info: gambar/Metodologi/compare.png  used on input line 367.
@@ -1888,7 +1884,7 @@ Package pdftex.def Info: gambar/Metodologi/compare.png  used on input line 367.
 
 
 [38 <./gambar/Metodologi/formula.png> <./gambar/Metodologi/threshold.png>]
-<gambar/Metodologi/visualization page.png, id=933, 1445.4pt x 1027.84pt>
+<gambar/Metodologi/visualization page.png, id=983, 1445.4pt x 1027.84pt>
 File: gambar/Metodologi/visualization page.png Graphic file (type png)
 <use gambar/Metodologi/visualization page.png>
 Package pdftex.def Info: gambar/Metodologi/visualization page.png  used on inpu
@@ -1898,7 +1894,7 @@ t line 375.
 
 [39 <./gambar/Metodologi/compare.png> <./gambar/Metodologi/visualization page.p
 ng>]
-<gambar/Metodologi/Start Performance Now.png, id=942, 445.665pt x 54.2025pt>
+<gambar/Metodologi/Start Performance Now.png, id=993, 445.665pt x 54.2025pt>
 File: gambar/Metodologi/Start Performance Now.png Graphic file (type png)
 <use gambar/Metodologi/Start Performance Now.png>
 Package pdftex.def Info: gambar/Metodologi/Start Performance Now.png  used on i
@@ -1912,7 +1908,7 @@ nput line 401.
 
 
 [40]
-<gambar/Metodologi/Task Manager.png, id=951, 478.03593pt x 256.70906pt>
+<gambar/Metodologi/Task Manager.png, id=1003, 478.03593pt x 256.70906pt>
 File: gambar/Metodologi/Task Manager.png Graphic file (type png)
 <use gambar/Metodologi/Task Manager.png>
 Package pdftex.def Info: gambar/Metodologi/Task Manager.png  used on input line
@@ -1929,13 +1925,13 @@ Package pdftex.def Info: gambar/Metodologi/Task Manager.png  used on input line
 
  (chapters/bab4.tex
 Bab 4.
-<gambar/Pembahasan/generate API.png, id=969, 507.39563pt x 88.07906pt>
+<gambar/Pembahasan/generate API.png, id=1022, 507.39563pt x 88.07906pt>
 File: gambar/Pembahasan/generate API.png Graphic file (type png)
 <use gambar/Pembahasan/generate API.png>
 Package pdftex.def Info: gambar/Pembahasan/generate API.png  used on input line
  10.
 (pdftex.def)             Requested size: 352.81552pt x 61.24768pt.
-<gambar/Pembahasan/fungsi Generate.png, id=970, 411.78844pt x 590.205pt>
+<gambar/Pembahasan/fungsi Generate.png, id=1023, 411.78844pt x 590.205pt>
 File: gambar/Pembahasan/fungsi Generate.png Graphic file (type png)
 <use gambar/Pembahasan/fungsi Generate.png>
 Package pdftex.def Info: gambar/Pembahasan/fungsi Generate.png  used on input l
@@ -1949,7 +1945,7 @@ ine 18.
 
 
  <./gambar/Pembahasan/generate API.png>]
-<gambar/Pembahasan/use Feature.png, id=976, 505.89pt x 40.65187pt>
+<gambar/Pembahasan/use Feature.png, id=1029, 505.89pt x 40.65187pt>
 File: gambar/Pembahasan/use Feature.png Graphic file (type png)
 <use gambar/Pembahasan/use Feature.png>
 Package pdftex.def Info: gambar/Pembahasan/use Feature.png  used on input line 
@@ -1958,7 +1954,7 @@ Package pdftex.def Info: gambar/Pembahasan/use Feature.png  used on input line
 
 
 [45 <./gambar/Pembahasan/fungsi Generate.png>]
-<gambar/Pembahasan/menyimpan log.png, id=983, 448.67625pt x 335.75438pt>
+<gambar/Pembahasan/menyimpan log.png, id=1035, 448.67625pt x 335.75438pt>
 File: gambar/Pembahasan/menyimpan log.png Graphic file (type png)
 <use gambar/Pembahasan/menyimpan log.png>
 Package pdftex.def Info: gambar/Pembahasan/menyimpan log.png  used on input lin
@@ -1967,13 +1963,13 @@ e 43.
 
 
 [46 <./gambar/Pembahasan/use Feature.png>]
-<gambar/Pembahasan/Fungsi Fetch Data.png, id=990, 593.21625pt x 377.91188pt>
+<gambar/Pembahasan/Fungsi Fetch Data.png, id=1043, 593.21625pt x 377.91188pt>
 File: gambar/Pembahasan/Fungsi Fetch Data.png Graphic file (type png)
 <use gambar/Pembahasan/Fungsi Fetch Data.png>
 Package pdftex.def Info: gambar/Pembahasan/Fungsi Fetch Data.png  used on input
  line 51.
 (pdftex.def)             Requested size: 352.81552pt x 224.77097pt.
-<gambar/Pembahasan/update all data.png, id=991, 535.2497pt x 71.51718pt>
+<gambar/Pembahasan/update all data.png, id=1044, 535.2497pt x 71.51718pt>
 File: gambar/Pembahasan/update all data.png Graphic file (type png)
 <use gambar/Pembahasan/update all data.png>
 Package pdftex.def Info: gambar/Pembahasan/update all data.png  used on input l
@@ -1983,14 +1979,14 @@ ine 60.
 
 [47 <./gambar/Pembahasan/menyimpan log.png> <./gambar/Pembahasan/Fungsi Fetch D
 ata.png>]
-<gambar/Pembahasan/button new visualization.png, id=999, 950.80219pt x 310.1587
-5pt>
+<gambar/Pembahasan/button new visualization.png, id=1052, 950.80219pt x 310.158
+75pt>
 File: gambar/Pembahasan/button new visualization.png Graphic file (type png)
 <use gambar/Pembahasan/button new visualization.png>
 Package pdftex.def Info: gambar/Pembahasan/button new visualization.png  used o
 n input line 70.
 (pdftex.def)             Requested size: 352.81552pt x 115.09296pt.
-<gambar/Pembahasan/Fungsi new visualization.png, id=1000, 626.34pt x 607.51968p
+<gambar/Pembahasan/Fungsi new visualization.png, id=1053, 626.34pt x 607.51968p
 t>
 File: gambar/Pembahasan/Fungsi new visualization.png Graphic file (type png)
 <use gambar/Pembahasan/Fungsi new visualization.png>
@@ -2001,7 +1997,7 @@ n input line 79.
 
 [48 <./gambar/Pembahasan/update all data.png> <./gambar/Pembahasan/button new v
 isualization.png>]
-<gambar/Pembahasan/fungsi_populate_dropdown.png, id=1008, 628.59843pt x 533.744
+<gambar/Pembahasan/fungsi_populate_dropdown.png, id=1061, 628.59843pt x 533.744
 06pt>
 File: gambar/Pembahasan/fungsi_populate_dropdown.png Graphic file (type png)
 <use gambar/Pembahasan/fungsi_populate_dropdown.png>
@@ -2013,13 +2009,13 @@ n input line 90.
 [49 <./gambar/Pembahasan/Fungsi new visualization.png>]
 
 [50 <./gambar/Pembahasan/fungsi_populate_dropdown.png>]
-<gambar/Pembahasan/delete-chart.png, id=1022, 642.90187pt x 176.91093pt>
+<gambar/Pembahasan/delete-chart.png, id=1075, 642.90187pt x 176.91093pt>
 File: gambar/Pembahasan/delete-chart.png Graphic file (type png)
 <use gambar/Pembahasan/delete-chart.png>
 Package pdftex.def Info: gambar/Pembahasan/delete-chart.png  used on input line
  104.
 (pdftex.def)             Requested size: 352.81552pt x 97.08804pt.
-<gambar/Pembahasan/Init variabel cjss.png, id=1023, 444.91219pt x 210.03468pt>
+<gambar/Pembahasan/Init variabel cjss.png, id=1076, 444.91219pt x 210.03468pt>
 File: gambar/Pembahasan/Init variabel cjss.png Graphic file (type png)
 <use gambar/Pembahasan/Init variabel cjss.png>
 Package pdftex.def Info: gambar/Pembahasan/Init variabel cjss.png  used on inpu
@@ -2028,13 +2024,13 @@ t line 117.
 
 
 [51 <./gambar/Pembahasan/delete-chart.png>]
-<gambar/Pembahasan/type visual.png, id=1032, 456.95718pt x 188.95593pt>
+<gambar/Pembahasan/type visual.png, id=1084, 456.95718pt x 188.95593pt>
 File: gambar/Pembahasan/type visual.png Graphic file (type png)
 <use gambar/Pembahasan/type visual.png>
 Package pdftex.def Info: gambar/Pembahasan/type visual.png  used on input line 
 125.
 (pdftex.def)             Requested size: 352.81552pt x 145.89728pt.
-<gambar/Pembahasan/Chartinstance cjs.png, id=1033, 453.19313pt x 577.40718pt>
+<gambar/Pembahasan/Chartinstance cjs.png, id=1085, 453.19313pt x 577.40718pt>
 File: gambar/Pembahasan/Chartinstance cjs.png Graphic file (type png)
 <use gambar/Pembahasan/Chartinstance cjs.png>
 Package pdftex.def Info: gambar/Pembahasan/Chartinstance cjs.png  used on input
@@ -2046,7 +2042,7 @@ Package pdftex.def Info: gambar/Pembahasan/Chartinstance cjs.png  used on input
 al.png>]
 
 [53 <./gambar/Pembahasan/Chartinstance cjs.png>]
-<gambar/Pembahasan/update data cjs.png, id=1047, 904.1278pt x 1376.89406pt>
+<gambar/Pembahasan/update data cjs.png, id=1100, 904.1278pt x 1376.89406pt>
 File: gambar/Pembahasan/update data cjs.png Graphic file (type png)
 <use gambar/Pembahasan/update data cjs.png>
 Package pdftex.def Info: gambar/Pembahasan/update data cjs.png  used on input l
@@ -2057,7 +2053,7 @@ ine 143.
 [54]
 
 [55 <./gambar/Pembahasan/update data cjs.png>]
-<gambar/Pembahasan/create axis d3.png, id=1058, 629.35126pt x 660.21657pt>
+<gambar/Pembahasan/create axis d3.png, id=1111, 629.35126pt x 660.21657pt>
 File: gambar/Pembahasan/create axis d3.png Graphic file (type png)
 <use gambar/Pembahasan/create axis d3.png>
 Package pdftex.def Info: gambar/Pembahasan/create axis d3.png  used on input li
@@ -2066,13 +2062,13 @@ ne 158.
 
 
 [56]
-<gambar/Pembahasan/Create Tooltip.png, id=1064, 588.69937pt x 164.11313pt>
+<gambar/Pembahasan/Create Tooltip.png, id=1117, 588.69937pt x 164.11313pt>
 File: gambar/Pembahasan/Create Tooltip.png Graphic file (type png)
 <use gambar/Pembahasan/Create Tooltip.png>
 Package pdftex.def Info: gambar/Pembahasan/Create Tooltip.png  used on input li
 ne 165.
 (pdftex.def)             Requested size: 352.81552pt x 98.35594pt.
-<gambar/Pembahasan/implementasi bar chart.png, id=1065, 631.60968pt x 327.47343
+<gambar/Pembahasan/implementasi bar chart.png, id=1118, 631.60968pt x 327.47343
 pt>
 File: gambar/Pembahasan/implementasi bar chart.png Graphic file (type png)
 <use gambar/Pembahasan/implementasi bar chart.png>
@@ -2088,7 +2084,7 @@ File: gambar/Pembahasan/implementasi bar chart.png Graphic file (type png)
 Package pdftex.def Info: gambar/Pembahasan/implementasi bar chart.png  used on 
 input line 179.
 (pdftex.def)             Requested size: 352.81552pt x 182.92915pt.
-<gambar/Pembahasan/implementasi scatter plot.png, id=1075, 643.6547pt x 346.293
+<gambar/Pembahasan/implementasi scatter plot.png, id=1127, 643.6547pt x 346.293
 75pt>
 File: gambar/Pembahasan/implementasi scatter plot.png Graphic file (type png)
 <use gambar/Pembahasan/implementasi scatter plot.png>
@@ -2098,7 +2094,7 @@ on input line 186.
 
 
 [58 <./gambar/Pembahasan/implementasi bar chart.png>]
-<gambar/Pembahasan/Fungsi Update D3.png, id=1083, 447.17062pt x 462.97969pt>
+<gambar/Pembahasan/Fungsi Update D3.png, id=1136, 447.17062pt x 462.97969pt>
 File: gambar/Pembahasan/Fungsi Update D3.png Graphic file (type png)
 <use gambar/Pembahasan/Fungsi Update D3.png>
 Package pdftex.def Info: gambar/Pembahasan/Fungsi Update D3.png  used on input 
@@ -2108,13 +2104,13 @@ line 194.
 
 [59 <./gambar/Pembahasan/implementasi scatter plot.png> <./gambar/Pembahasan/Fu
 ngsi Update D3.png>]
-<gambar/Pembahasan/Init Highcharts.png, id=1091, 463.7325pt x 278.54062pt>
+<gambar/Pembahasan/Init Highcharts.png, id=1144, 463.7325pt x 278.54062pt>
 File: gambar/Pembahasan/Init Highcharts.png Graphic file (type png)
 <use gambar/Pembahasan/Init Highcharts.png>
 Package pdftex.def Info: gambar/Pembahasan/Init Highcharts.png  used on input l
 ine 210.
 (pdftex.def)             Requested size: 352.81552pt x 211.92258pt.
-<gambar/Pembahasan/Membuat chart highcharts.png, id=1092, 451.6875pt x 546.5418
+<gambar/Pembahasan/Membuat chart highcharts.png, id=1145, 451.6875pt x 546.5418
 7pt>
 File: gambar/Pembahasan/Membuat chart highcharts.png Graphic file (type png)
 <use gambar/Pembahasan/Membuat chart highcharts.png>
@@ -2126,7 +2122,7 @@ n input line 218.
 [60 <./gambar/Pembahasan/Init Highcharts.png>]
 
 [61 <./gambar/Pembahasan/Membuat chart highcharts.png>]
-<gambar/Pembahasan/Update Highcharts.png, id=1105, 456.20438pt x 465.99094pt>
+<gambar/Pembahasan/Update Highcharts.png, id=1158, 456.20438pt x 465.99094pt>
 File: gambar/Pembahasan/Update Highcharts.png Graphic file (type png)
 <use gambar/Pembahasan/Update Highcharts.png>
 Package pdftex.def Info: gambar/Pembahasan/Update Highcharts.png  used on input
@@ -2137,7 +2133,7 @@ Package pdftex.def Info: gambar/Pembahasan/Update Highcharts.png  used on input
 [62]
 
 [63 <./gambar/Pembahasan/Update Highcharts.png>]
-<gambar/Pembahasan/FIX_Render/render chart js_fix.png, id=1117, 1300.86pt x 433
+<gambar/Pembahasan/FIX_Render/render chart js_fix.png, id=1169, 1300.86pt x 433
 .62pt>
 File: gambar/Pembahasan/FIX_Render/render chart js_fix.png Graphic file (type p
 ng)
@@ -2150,7 +2146,7 @@ used on input line 274.
 [64 <./gambar/Pembahasan/FIX_Render/render chart js_fix.png>]
 
 [65]
-<gambar/Pembahasan/FIX_Render/d3.png, id=1128, 1300.86pt x 433.62pt>
+<gambar/Pembahasan/FIX_Render/d3.png, id=1181, 1300.86pt x 433.62pt>
 File: gambar/Pembahasan/FIX_Render/d3.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Render/d3.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Render/d3.png  used on input lin
@@ -2159,7 +2155,7 @@ e 316.
 
 
 [66 <./gambar/Pembahasan/FIX_Render/d3.png>]
-<gambar/Pembahasan/FIX_Render/hc.png, id=1134, 1300.86pt x 433.62pt>
+<gambar/Pembahasan/FIX_Render/hc.png, id=1187, 1300.86pt x 433.62pt>
 File: gambar/Pembahasan/FIX_Render/hc.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Render/hc.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Render/hc.png  used on input lin
@@ -2168,7 +2164,7 @@ e 359.
 
 
 [67]
-<gambar/Pembahasan/Mengukur CPU.png, id=1139, 547.2947pt x 379.4175pt>
+<gambar/Pembahasan/Mengukur CPU.png, id=1192, 547.2947pt x 379.4175pt>
 File: gambar/Pembahasan/Mengukur CPU.png Graphic file (type png)
 <use gambar/Pembahasan/Mengukur CPU.png>
 Package pdftex.def Info: gambar/Pembahasan/Mengukur CPU.png  used on input line
@@ -2178,14 +2174,14 @@ Package pdftex.def Info: gambar/Pembahasan/Mengukur CPU.png  used on input line
 
 [68 <./gambar/Pembahasan/FIX_Render/hc.png>] [69 <./gambar/Pembahasan/Mengukur 
 CPU.png>]
-<gambar/Pembahasan/FIX_CPU/cjs compare.png, id=1154, 1300.86pt x 437.2335pt>
+<gambar/Pembahasan/FIX_CPU/cjs compare.png, id=1206, 1300.86pt x 437.2335pt>
 File: gambar/Pembahasan/FIX_CPU/cjs compare.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_CPU/cjs compare.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_CPU/cjs compare.png  used on inp
 ut line 412.
 (pdftex.def)             Requested size: 352.81552pt x 118.58168pt.
  [70 <./gambar/Pembahasan/FIX_CPU/cjs compare.png>]
-<gambar/Pembahasan/FIX_CPU/d3_compare.png, id=1160, 1300.86pt x 433.62pt>
+<gambar/Pembahasan/FIX_CPU/d3_compare.png, id=1213, 1300.86pt x 433.62pt>
 File: gambar/Pembahasan/FIX_CPU/d3_compare.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_CPU/d3_compare.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_CPU/d3_compare.png  used on inpu
@@ -2194,7 +2190,7 @@ t line 449.
 
 
 [71 <./gambar/Pembahasan/FIX_CPU/d3_compare.png>]
-<gambar/Pembahasan/FIX_CPU/hc_compare.png, id=1166, 1300.86pt x 433.62pt>
+<gambar/Pembahasan/FIX_CPU/hc_compare.png, id=1219, 1300.86pt x 433.62pt>
 File: gambar/Pembahasan/FIX_CPU/hc_compare.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_CPU/hc_compare.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_CPU/hc_compare.png  used on inpu
@@ -2203,7 +2199,7 @@ t line 485.
 
 
 [72 <./gambar/Pembahasan/FIX_CPU/hc_compare.png>]
-<gambar/Pembahasan/FIX_Memori/cjs.png, id=1172, 1300.86pt x 433.62pt>
+<gambar/Pembahasan/FIX_Memori/cjs.png, id=1225, 1300.86pt x 433.62pt>
 File: gambar/Pembahasan/FIX_Memori/cjs.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Memori/cjs.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Memori/cjs.png  used on input li
@@ -2212,7 +2208,7 @@ ne 532.
 
 
 [73]
-<gambar/Pembahasan/FIX_Memori/D3.png, id=1180, 1300.86pt x 433.62pt>
+<gambar/Pembahasan/FIX_Memori/D3.png, id=1233, 1300.86pt x 433.62pt>
 File: gambar/Pembahasan/FIX_Memori/D3.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Memori/D3.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Memori/D3.png  used on input lin
@@ -2223,7 +2219,7 @@ e 569.
 [74 <./gambar/Pembahasan/FIX_Memori/cjs.png>]
 
 [75 <./gambar/Pembahasan/FIX_Memori/D3.png>]
-<gambar/Pembahasan/FIX_Memori/hc.png, id=1192, 1300.86pt x 433.62pt>
+<gambar/Pembahasan/FIX_Memori/hc.png, id=1244, 1300.86pt x 433.62pt>
 File: gambar/Pembahasan/FIX_Memori/hc.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Memori/hc.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Memori/hc.png  used on input lin
@@ -2234,7 +2230,7 @@ e 606.
 [76 <./gambar/Pembahasan/FIX_Memori/hc.png>]
 
 [77]
-<gambar/Pembahasan/FIX_Render/Figure_1.png, id=1202, 1011.78pt x 505.89pt>
+<gambar/Pembahasan/FIX_Render/Figure_1.png, id=1255, 1011.78pt x 505.89pt>
 File: gambar/Pembahasan/FIX_Render/Figure_1.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Render/Figure_1.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Render/Figure_1.png  used on inp
@@ -2243,13 +2239,13 @@ ut line 648.
 
 
 [78 <./gambar/Pembahasan/FIX_Render/Figure_1.png>]
-<gambar/Pembahasan/FIX_Render/Figure_2.png, id=1208, 1011.78pt x 505.89pt>
+<gambar/Pembahasan/FIX_Render/Figure_2.png, id=1261, 1011.78pt x 505.89pt>
 File: gambar/Pembahasan/FIX_Render/Figure_2.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Render/Figure_2.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Render/Figure_2.png  used on inp
 ut line 661.
 (pdftex.def)             Requested size: 352.81552pt x 176.408pt.
-<gambar/Pembahasan/FIX_Render/Figure_3.png, id=1209, 1011.78pt x 505.89pt>
+<gambar/Pembahasan/FIX_Render/Figure_3.png, id=1262, 1011.78pt x 505.89pt>
 File: gambar/Pembahasan/FIX_Render/Figure_3.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Render/Figure_3.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Render/Figure_3.png  used on inp
@@ -2260,7 +2256,7 @@ ut line 670.
 [79 <./gambar/Pembahasan/FIX_Render/Figure_2.png>]
 
 [80 <./gambar/Pembahasan/FIX_Render/Figure_3.png>]
-<gambar/Pembahasan/FIX_CPU/Figure_1.png, id=1220, 1011.78pt x 505.89pt>
+<gambar/Pembahasan/FIX_CPU/Figure_1.png, id=1273, 1011.78pt x 505.89pt>
 File: gambar/Pembahasan/FIX_CPU/Figure_1.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_CPU/Figure_1.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_CPU/Figure_1.png  used on input 
@@ -2269,13 +2265,13 @@ line 710.
 
 
 [81 <./gambar/Pembahasan/FIX_CPU/Figure_1.png>]
-<gambar/Pembahasan/FIX_CPU/Figure_2.png, id=1227, 1011.78pt x 505.89pt>
+<gambar/Pembahasan/FIX_CPU/Figure_2.png, id=1279, 1011.78pt x 505.89pt>
 File: gambar/Pembahasan/FIX_CPU/Figure_2.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_CPU/Figure_2.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_CPU/Figure_2.png  used on input 
 line 719.
 (pdftex.def)             Requested size: 352.81552pt x 176.408pt.
-<gambar/Pembahasan/FIX_CPU/Figure_3.png, id=1228, 1011.78pt x 505.89pt>
+<gambar/Pembahasan/FIX_CPU/Figure_3.png, id=1280, 1011.78pt x 505.89pt>
 File: gambar/Pembahasan/FIX_CPU/Figure_3.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_CPU/Figure_3.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_CPU/Figure_3.png  used on input 
@@ -2291,7 +2287,7 @@ Overfull \hbox (48.85062pt too wide) in paragraph at lines 739--761
 
 
 [83 <./gambar/Pembahasan/FIX_CPU/Figure_3.png>]
-<gambar/Pembahasan/FIX_Memori/Figure_1.png, id=1239, 939.51pt x 433.62pt>
+<gambar/Pembahasan/FIX_Memori/Figure_1.png, id=1292, 939.51pt x 433.62pt>
 File: gambar/Pembahasan/FIX_Memori/Figure_1.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Memori/Figure_1.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Memori/Figure_1.png  used on inp
@@ -2300,13 +2296,13 @@ ut line 766.
 
 
 [84 <./gambar/Pembahasan/FIX_Memori/Figure_1.png>]
-<gambar/Pembahasan/FIX_Memori/Figure_2.png, id=1245, 939.51pt x 433.62pt>
+<gambar/Pembahasan/FIX_Memori/Figure_2.png, id=1298, 939.51pt x 433.62pt>
 File: gambar/Pembahasan/FIX_Memori/Figure_2.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Memori/Figure_2.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Memori/Figure_2.png  used on inp
 ut line 786.
 (pdftex.def)             Requested size: 352.81552pt x 162.83867pt.
-<gambar/Pembahasan/FIX_Memori/Figure_3.png, id=1246, 939.51pt x 433.62pt>
+<gambar/Pembahasan/FIX_Memori/Figure_3.png, id=1299, 939.51pt x 433.62pt>
 File: gambar/Pembahasan/FIX_Memori/Figure_3.png Graphic file (type png)
 <use gambar/Pembahasan/FIX_Memori/Figure_3.png>
 Package pdftex.def Info: gambar/Pembahasan/FIX_Memori/Figure_3.png  used on inp
@@ -2328,7 +2324,7 @@ Bab 5.
 
 
 
-] (chapters/daftarpustaka.tex (laporan_PA.bbl)) (chapters/lampiran1.tex
+] (chapters/daftarpustaka.tex (laporan_PA.bbl
 
 [88
 
@@ -2336,6 +2332,10 @@ Bab 5.
 
 
 ]
+
+[89])) (chapters/lampiran1.tex
+
+[90]
 
 [1
 
@@ -2385,19 +2385,22 @@ L3 programming layer <2025-05-26>
  ***********
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `laporan_PA.out' has not changed.
 (rerunfilecheck)             Checksum: 5519F244F34A932DC06F7520DA1274DB;10238.
  ) 
 Here is how much of TeX's memory you used:
- 38068 strings out of 468219
- 783470 string characters out of 5433353
+ 38135 strings out of 468219
+ 784342 string characters out of 5433353
  1289302 words of memory out of 5000000
- 65455 multiletter control sequences out of 15000+600000
+ 65490 multiletter control sequences out of 15000+600000
  636538 words of font info for 74 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 121i,14n,124p,2547b,1340s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,14n,124p,2547b,1342s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ASUS\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 200.pk><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -2412,9 +2415,9 @@ ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
 :/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti1
 2.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr
 8a.pfb>
-Output written on laporan_PA.pdf (107 pages, 4237540 bytes).
+Output written on laporan_PA.pdf (108 pages, 4259041 bytes).
 PDF statistics:
- 1426 PDF objects out of 1440 (max. 8388607)
- 395 named destinations out of 1000 (max. 500000)
+ 1518 PDF objects out of 1728 (max. 8388607)
+ 427 named destinations out of 1000 (max. 500000)
  979 words of extra memory for PDF output out of 10000 (max. 10000000)
 

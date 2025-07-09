@@ -51,13 +51,13 @@ Chart.Js, ``Chart.js samples,'' pp. 1--1, 2 2025.
 \bibitem{D3}
 D3, ``What is d3?''
 
+\bibitem{ossinsight}
+ossinsight, ``Javascript charting - ranking.''
+
 \bibitem{Renear2010}
 A.~H. Renear, S.~Sacchi, and K.~M. Wickett, ``Definitions of dataset in the
   scientific and technical literature,'' in \emph{Proceedings of the ASIST
   Annual Meeting}, vol.~47, 11 2010.
-
-\bibitem{ossinsight}
-ossinsight, ``Javascript charting - ranking.''
 
 \bibitem{Khairy2023}
 \BIBentryALTinterwordspacing
@@ -105,46 +105,9 @@ G.~C. G.~D. Melo, I.~C. Torres, Ícaro Bezzera Queiroz De~Araújo, D.~B. Brito,
   photovoltaic generation for smart,'' \emph{Grid Application. Sensors}, 5
   2021.
 
-\bibitem{Highcharts}
-\BIBentryALTinterwordspacing
-Highcharts, ``Highcharts documentation.'' [Online]. Available:
-  \url{https://www.highcharts.com/docs/index}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Egger-Lampl2012}
-S.~Egger-Lampl, T.~Hossfeld, R.~Schatz, and M.~Fiedler, ``Waiting times in
-  quality of experience for web based services,'' in \emph{2012 4th
-  International Workshop on Quality of Multimedia Experience, QoMEX 2012}, 6
-  2012.
-
-\bibitem{Mykhailo2024}
-L.~Mykhailo and S.~Yevgeniya, ``Real-time data visualization for iot network
-  systems: Challenges and strategies for performance optimization,''
-  \emph{System technologies}, vol.~5, pp. 52--61, 3 2024.
-
-\bibitem{Paradis2016}
-D.~J. Paradis and B.~Segee, ``Remote rendering and rendering in virtual
-  machines,'' 2016.
-
-\bibitem{Febriani2023}
-S.~Febriani, Astuti, K.~Ediputra, and Zulfah, ``Anova dan tukey hsd analisis
-  kesalahan siswa dalam menjawab soal cerita matematika berdasarkan kriteria
-  watson,'' \emph{Jurnal Pengabdian Masyarakat dan Riset Pendidikan}, vol.~2,
-  pp. 183--188, 8 2023.
-
-\bibitem{Millqvist2022}
-H.~M. Millqvist, N.~Bolin, A.~Márki, and J.~Steinhauer, ``En jÄmnfÖrelse av
-  prestanda och skalbarhet fÖr grafgenerering i datavisualiserande
-  javascript-bibliotek a comparision of performance and scalability of chart
-  generation for javascript data visualisation libraries,'' Tech. Rep., 2022.
-
-\bibitem{Unwin2020}
-A.~Unwin, ``Why is data visualization important? what is important in data
-  visualization?'' \emph{Harvard Data Science Review}, 1 2020.
-
-\bibitem{Benbba2021}
-S.~Benbba, ``Comparison of d3.js and chart.js as visualisation tools,'' Tampere
-  University, Tech. Rep., 4 2021.
+\bibitem{Danielyan2018}
+G.~Danielyan, ``Analysis of data visualization tools and approaches,'' Tech.
+  Rep., 2018.
 
 \bibitem{Gokhale2020}
 \BIBentryALTinterwordspacing
@@ -154,9 +117,57 @@ L.~A. Gokhale, B.~Vidyapeeth, K.~Nilesh, M.~B. Vidyapeeth, .~Kirti, N.~Mahajan,
   \url{https://www.researchgate.net/publication/344425307}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Danielyan2018}
-G.~Danielyan, ``Analysis of data visualization tools and approaches,'' Tech.
-  Rep., 2018.
+\bibitem{Benbba2021}
+S.~Benbba, ``Comparison of d3.js and chart.js as visualisation tools,'' Tampere
+  University, Tech. Rep., 4 2021.
+
+\bibitem{Millqvist2022}
+H.~M. Millqvist, N.~Bolin, A.~Márki, and J.~Steinhauer, ``En jÄmnfÖrelse av
+  prestanda och skalbarhet fÖr grafgenerering i datavisualiserande
+  javascript-bibliotek a comparision of performance and scalability of chart
+  generation for javascript data visualisation libraries,'' Tech. Rep., 2022.
+
+\bibitem{Kim2023}
+N.~W. Kim, G.~Ataguba, S.~C. Joyner, C.~Zhao, and H.~Im, ``Beyond alternative
+  text and tables: Comparative analysis of visualization tools and
+  accessibility methods,'' \emph{Computer Graphics Forum}, vol.~42, pp.
+  323--335, 6 2023.
+
+\bibitem{Laravel}
+Laravel, ``Why laravel?''
+
+\bibitem{JavaScript}
+w3schools.com, ``Javascript introduction.''
+
+\bibitem{Highcharts}
+\BIBentryALTinterwordspacing
+Highcharts, ``Highcharts documentation.'' [Online]. Available:
+  \url{https://www.highcharts.com/docs/index}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Unwin2020}
+A.~Unwin, ``Why is data visualization important? what is important in data
+  visualization?'' \emph{Harvard Data Science Review}, 1 2020.
+
+\bibitem{Mykhailo2024}
+L.~Mykhailo and S.~Yevgeniya, ``Real-time data visualization for iot network
+  systems: Challenges and strategies for performance optimization,''
+  \emph{System technologies}, vol.~5, pp. 52--61, 3 2024.
+
+\bibitem{EggerLampl2012}
+S.~Egger-Lampl, T.~Hossfeld, R.~Schatz, and M.~Fiedler, ``Waiting times in
+  quality of experience for web based services,'' in \emph{2012 4th
+  International Workshop on Quality of Multimedia Experience, QoMEX 2012}, 6
+  2012.
+
+\bibitem{Paradis2016}
+D.~J. Paradis and B.~Segee, ``Remote rendering and rendering in virtual
+  machines,'' 2016.
+
+\bibitem{8566475}
+A.~Yıldız, H.~F. Ugurdag, B.~Aktemur, D.~İskender, and S.~Gören, ``Cpu
+  design simplified,'' in \emph{2018 3rd International Conference on Computer
+  Science and Engineering (UBMK)}, 2018, pp. 630--632.
 
 \bibitem{Bondi2000}
 \BIBentryALTinterwordspacing
@@ -165,11 +176,63 @@ A.~B. Bondi, ``Characteristics of scalability and their impact on
   \url{http://www.whatis.com/scalabil.htm.}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Kim2023}
-N.~W. Kim, G.~Ataguba, S.~C. Joyner, C.~Zhao, and H.~Im, ``Beyond alternative
-  text and tables: Comparative analysis of visualization tools and
-  accessibility methods,'' \emph{Computer Graphics Forum}, vol.~42, pp.
-  323--335, 6 2023.
+\bibitem{Nurwarsito}
+I.~H. Nurwarsito, M.~K. Barlian, H.~P. St, M.~T. Eko, S.~Pramukantoro, S.~Kom,
+  and M.~Kom, ``Arsitektur dan organisasi komputer i internal memori,'' Tech.
+  Rep.
+
+\bibitem{Evi}
+E.~I. Wahyuni, S.~A. Gani, H.~Aryanto, A.~K. Siregar, and Q.~Aini, ``Analisis
+  perancangan sistem informasi pendaftaran siswa baru tk putiek nanggroe
+  berbasis web menggunakan unified modeling language,'' Tech. Rep.
+
+\bibitem{Fedaghi}
+\BIBentryALTinterwordspacing
+S.~Al-Fedaghi, ``Uml sequence diagram: An alternative model,'' Tech. Rep.
+  [Online]. Available: \url{www.thesai.org}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Kasera2024}
+R.~K. Kasera and T.~Acharjee, ``A comprehensive iot edge based smart irrigation
+  system for tomato cultivation,'' \emph{Internet of Things (Netherlands)},
+  vol.~28, 12 2024.
+
+\bibitem{Suryana2022}
+\BIBentryALTinterwordspacing
+T.~Suryana, ``Membangun stasiun cuaca dengan bme 280 untuk monitoring suhu,
+  kelembaban,tekanan udara dan ketinggian,'' Tech. Rep., 2022. [Online].
+  Available: \url{https://github.com/nodemcu/nodemcu-devkit}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Flask}
+Flask, ``Flask documentation.''
+
+\bibitem{Diantika2023}
+S.~Diantika, ``Penerapan teknik random oversampling untuk mengatasi imbalance
+  class dalam klasifikasi website phishing menggunakan algoritma lightgbm,''
+  Tech. Rep., 2023.
+
+\bibitem{Akbar}
+R.~Akbar, R.~A. Siroj, M.~W. Afgani, and U.~I. N. R. F.~P. Abstract,
+  ``Experimental reseacrch dalam metodologi pendidikan,'' \emph{Jurnal Ilmiah
+  Wahana Pendidikan, Januari}, vol. 2023, pp. 465--474.
+
+\bibitem{Mozilla}
+\BIBentryALTinterwordspacing
+Mozilla, ``Performance: now() method.'' [Online]. Available:
+  \url{https://developer.mozilla.org/en-US/docs/Web/API/Performance/now}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Vayadande2022}
+K.~Vayadande, A.~Raut, R.~Bhonsle, V.~Pungliya, A.~Purohit, and S.~Pate,
+  ``Efficient system for cpu metric visualization,'' \emph{3C TIC: Cuadernos de
+  desarrollo aplicados a las TIC}, vol.~11, pp. 239--250, 12 2022.
+
+\bibitem{Febriani2023}
+S.~Febriani, Astuti, K.~Ediputra, and Zulfah, ``Anova dan tukey hsd analisis
+  kesalahan siswa dalam menjawab soal cerita matematika berdasarkan kriteria
+  watson,'' \emph{Jurnal Pengabdian Masyarakat dan Riset Pendidikan}, vol.~2,
+  pp. 183--188, 8 2023.
 
 \bibitem{Ljubojevic2024}
 \BIBentryALTinterwordspacing
@@ -180,14 +243,5 @@ M.~Ljubojevic and M.~Mitrea, ``Interactive media planning data visualization,''
 
 \bibitem{Chrome}
 K.~Basques and S.~Emelianova, ``Referensi fitur performa.''
-
-\bibitem{Flask}
-Flask, ``Flask documentation.''
-
-\bibitem{Laravel}
-Laravel, ``Why laravel?''
-
-\bibitem{JavaScript}
-w3schools.com, ``Javascript introduction.''
 
 \end{thebibliography}

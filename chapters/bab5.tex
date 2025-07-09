@@ -3,15 +3,17 @@
 \section{Kesimpulan}
 Berdasarkan analisis dan pembahasan data hasil pengujian, diperoleh beberapa kesimpulan, yaitu:
 \begin{enumerate}
-    \item Kesimpulan 1
-    \item Kesimpulan 2
-    \item Kesimpulan 3
+    \item Chart.js menunjukkan kinerja \textit{rendering} yang sangat baik pada jumlah data kecil hingga menengah dengan waktu pemrosesan yang cepat. Namun, saat jumlah data meningkat signifikan, performanya mulai melambat. D3 memiliki performa \textit{rendering} yang kurang stabil pada data berjumlah besar karena memanipulasi elemen DOM secara langsung. Highcharts mampu menjaga kecepatan dan kestabilan \textit{rendering} meskipun dihadapkan pada beban data besar karena fitur optimasi internal yang dimilikinya.
+    \item Chart.js cukup efisien dalam penggunaan memori. D3.js cenderung memakan lebih banyak memori karena setiap elemen visualnya dirender sebagai objek SVG individual, yang menyebabkan beban memori meningkat pesat saat dataset bertambah besar. Sebaliknya, Highcharts menunjukkan konsumsi memori yang stabil karena memiliki pengaturan bawaan untuk membatasi jumlah elemen yang aktif secara bersamaan, sehingga cocok digunakan untuk aplikasi dengan skala data yang tinggi.
+    \item Pemantauan penggunaan CPU menunjukkan Chart.js bekerja ringan dan tidak membebani sistem ketika data masih dalam jumlah wajar. Namun, performa CPU mulai menurun seiring bertambahnya data yang divisualisasikan. D3.js, karena kompleksitas render-nya, membutuhkan lebih banyak tenaga pemrosesan CPU, terutama saat memproses elemen yang banyak dalam waktu bersamaan. Highcharts lebih efisien karena mampu mendistribusikan beban pemrosesan dengan baik dan melakukan update data secara dinamis tanpa harus me-render ulang seluruh elemen \textit{chart}.
+    \item Dari seluruh indikator yang diuji, Chart.js menunjukkan performa yang paling konsisten dibandingkan dengan D3.js dan Highcharts. \textit{Library} ini cenderung menghasilkan nilai yang stabil tanpa fluktuasi ekstrem dalam berbagai aspek pengujian seperti \textit{rendering}, penggunaan memori, dan konsumsi CPU. Meskipun tidak selalu menjadi yang tercepat atau paling efisien dalam setiap kategori, Chart.js tetap memberikan hasil yang dapat diprediksi dan tidak mengalami penurunan performa yang signifikan ketika skenario pengujian diperluas. Stabilitas ini menjadikannya pilihan yang andal untuk aplikasi visualisasi data IoT berskala kecil hingga menengah, terutama ketika konsistensi performa diutamakan. 
 \end{enumerate}
 
 \section{Saran}
 Berdasarkan hasil penelitian yang dilakukan, ditemukan beberapa kelemahan dalam pelaksanaannya, sehingga diperlukan upaya pengembangan lebih lanjut untuk memperbaiki sistem yang ada. Berikut ini adalah saran-saran yang dapat digunakan sebagai panduan untuk pengembangan penelitian selanjutnya:
 \begin{enumerate}
-    \item Saran 1
-    \item Saran 2
-    \item Saran 3
+    \item Penelitian dapat diperluas dengan meneliti \textit{library} visualisasi JavaScript lain. Dengan membandingkan lebih banyak \textit{library}, peneliti dapat memperoleh gambaran yang lebih komprehensif mengenai kelebihan dan kekurangan masing-masing \textit{library}. 
+    \item Eksperimen dapat dilakukan pada perangkat lain guna memperoleh hasil yang lebih representatif dan aplikatif di berbagai lingkungan sistem.
+    \item Penelitian selanjutnya juga disarankan untuk memperluas pengujian terhadap jenis visualisasi lain yang belum dibahas dalam studi ini, seperti \textit{bar chart, scatter plot, area chart, atau heatmap}. Dengan menguji berbagai tipe visualisasi, peneliti dapat mengevaluasi bagaimana setiap library menangani kompleksitas data dalam berbagai bentuk tampilan.
+    \item Pengimplementasikan Highcharts dan D3 harus disertai dengan optimalisasi CPU dan memori untuk mengurangi potensi \textit{memory leak} atau kenaikan konsumsi CPU yang berlebihan.
 \end{enumerate}

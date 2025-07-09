@@ -21,8 +21,6 @@ Reallocating 'name_of_file' (item size: 1) to 26 items.
 A level-1 auxiliary file: chapters/daftargambar.aux
 Reallocating 'name_of_file' (item size: 1) to 25 items.
 A level-1 auxiliary file: chapters/daftartabel.aux
-Reallocating 'name_of_file' (item size: 1) to 29 items.
-A level-1 auxiliary file: chapters/daftarsingkatan.aux
 Reallocating 'name_of_file' (item size: 1) to 21 items.
 A level-1 auxiliary file: chapters/abstrak.aux
 Reallocating 'name_of_file' (item size: 1) to 22 items.
@@ -46,7 +44,10 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: bibliography/pustaka.bib
-Warning--I didn't find a database entry for "muhammadred"
+Repeated entry---line 579 of file bibliography/pustaka.bib
+ : @techreport{Danielyan2018
+ :                          ,
+I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -55,53 +56,62 @@ Warning--missing institution in Persson2021
 Warning--missing institution in Vueti2023
 Warning--empty journal in Toppany2023
 Warning--empty journal in Rothenhausler2022
-Warning--empty journal in Paradis2016
-Warning--missing institution in Millqvist2022
-Warning--missing institution in Gokhale2020
 Warning--missing institution in Danielyan2018
+Warning--missing institution in Gokhale2020
+Warning--missing institution in Millqvist2022
+Warning--empty journal in Paradis2016
 Warning--missing institution in Bondi2000
+Warning--missing institution in Nurwarsito
+Warning--empty year in Nurwarsito
+Warning--missing institution in Evi
+Warning--empty year in Evi
+Warning--missing institution in Fedaghi
+Warning--empty year in Fedaghi
+Warning--missing institution in Suryana2022
+Warning--missing institution in Diantika2023
+Warning--empty year in Akbar
 Warning--empty journal in Ljubojevic2024
 
 Done.
-You've used 32 entries,
+You've used 42 entries,
             4087 wiz_defined-function locations,
-            1017 strings with 13865 characters,
-and the built_in function-call counts, 15983 in all, are:
-= -- 1175
-> -- 413
-< -- 48
-+ -- 208
-- -- 90
-* -- 710
-:= -- 2597
-add.period$ -- 64
-call.type$ -- 32
-change.case$ -- 32
-chr.to.int$ -- 102
-cite$ -- 43
-duplicate$ -- 1315
-empty$ -- 1403
-format.name$ -- 109
-if$ -- 3591
+            1069 strings with 15798 characters,
+and the built_in function-call counts, 21693 in all, are:
+= -- 1599
+> -- 572
+< -- 75
++ -- 292
+- -- 123
+* -- 982
+:= -- 3486
+add.period$ -- 84
+call.type$ -- 42
+change.case$ -- 42
+chr.to.int$ -- 165
+cite$ -- 62
+duplicate$ -- 1761
+empty$ -- 1860
+format.name$ -- 148
+if$ -- 4876
 int.to.chr$ -- 0
-int.to.str$ -- 32
-missing$ -- 292
-newline$ -- 131
-num.names$ -- 32
-pop$ -- 747
+int.to.str$ -- 42
+missing$ -- 395
+newline$ -- 167
+num.names$ -- 42
+pop$ -- 1005
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1207
+skip$ -- 1626
 stack$ -- 0
-substring$ -- 274
-swap$ -- 894
-text.length$ -- 14
+substring$ -- 431
+swap$ -- 1231
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 32
-warning$ -- 11
-while$ -- 51
-width$ -- 34
-write$ -- 292
-(There were 12 warnings)
+type$ -- 42
+warning$ -- 20
+while$ -- 70
+width$ -- 44
+write$ -- 381
+(There was 1 error message)
